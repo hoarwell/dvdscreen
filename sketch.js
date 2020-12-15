@@ -13,8 +13,8 @@ function setup() {
   createCanvas(window.innerWidth, window.innerHeight);
   x = random(width);
   y = random(height);
-  xspeed = 3;
-  yspeed = 3;
+  xspeed = 4;
+  yspeed = 4;
   logoWidth = innerWidth
   changeColor();
   windowResized();
